@@ -1,0 +1,45 @@
+commit c735ee491ce3147199b2aaf12d0b5bed3b206325
+Merge: 48247bd 766e529
+Author: Connor MBP <connorwilsonsf@gmail.com>
+Date:   Thu Sep 10 20:48:34 2026 -0700
+
+    Resolve merge conflict
+
+commit 766e52944b2b56f3c5ccd285fa6607f5590e3c71
+Author: Connor MBP <connorwilsonsf@gmail.com>
+Date:   Thu Sep 10 20:17:52 2026 -0700
+
+    Added favorite game
+
+commit 48247bdb0bb07d77767fd9d7cfe262058b127ec4
+Author: Connor MBP <connorwilsonsf@gmail.com>
+Date:   Thu Sep 10 20:14:22 2026 -0700
+
+    Added favorite food
+
+commit 3485a4ea50a6c29f0429905eea73b1eedfef1b20
+Author: Connor MBP <connorwilsonsf@gmail.com>
+Date:   Thu Sep 10 20:11:38 2026 -0700
+
+    Add README
+
+commit 219b6fa24120133e4942da012e527bbd5bb5aa1a
+Merge: 1d2bfc0 3589453
+Author: Connor <30701468+cnrwxlsn@users.noreply.github.com>
+Date:   Thu Sep 10 20:05:25 2026 -0700
+
+    Merge pull request #1 from cnrwxlsn/info-fill
+    
+    Filled in personal information
+
+commit 3589453dc0c06a9069aacf9ed57f2fe495395562
+Author: Connor MBP <connorwilsonsf@gmail.com>
+Date:   Thu Sep 10 19:58:36 2026 -0700
+
+    Fill in personal information
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
